@@ -2,30 +2,93 @@
 <h3 align="center">Data Science | Financial Analytics | AI @ IIT Bombay</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=ML+%7C+Finance+%7C+AI;Building+Data-Driven+Systems&center=true&width=500&height=50&color=FFA500">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=ML+%7C+Finance+%7C+AI;Building+Data-Driven+Systems;Computer+Vision+%7C+Data+Analysis&center=true&width=500&height=50&color=FFA500">
 </p>
 
 ## 🚀 About Me
 - 🎓 IIT Bombay | BTech Mechanical + MTech AI & Data Science in 5 years 2022-2027
 - 📊 Interested in Data Science, Financial Analytics & AI
-- 💼 Experience in ML systems, geospatial analytics & financial modeling
+- 💼 Hands-on experience in ML systems, geospatial analytics & financial modeling
 - 📈 CFA Level 1 Candidate (Aug 2026)
+- 📍 Based in Mumbai, India
+
+## 💼 Work Experience
+
+### 🚀 UDA Summer Intern – Maritime Research Centre
+- Built a **geospatial analytics platform** for submarine cable routing
+- Processed and optimized **1.7GB+ spatial datasets**
+- Enabled environmental risk visualization for infrastructure planning
+
+---
+
+### 🏢 Summer Intern – IRCC, IIT Bombay
+- Managed documentation of **33/41 patent sign-offs (80.5%)**
+- Coordinated with faculty to support commercialization & licensing
+
+---
+
+### 📊 Research & Data Analyst Intern – World of Steel
+- Automated Salesforce workflows for **200+ accounts**
+- Integrated Mailchimp + Google Analytics
+- Built dashboards for **green steel market analysis**
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=python" title="Python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" height="40"/>
-  <img src="https://skillicons.dev/icons?i=r" title="R" height="40"/>
-  <img src="https://skillicons.dev/icons?i=matlab" title="Matlab" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-- ML/AI: Deep Learning, NLP, Computer Vision, RAG
-- Analytics: Power BI, Excel, Statistical Modeling
-- Tools: Flask, LangChain, Leaflet.js, AutoCAD, AutoForm, SolidWorks, Adams, Mastercam
+---
+
+### 🤖 ML/AI & Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-16A085?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFB300?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+</p>
+
+---
+
+### 📊 Analytics & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistical%20Modeling-34495E?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### 🏗️ Engineering & Design Tools
+<p>
+  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AutoCAD-CC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AutoForm-1F618D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Adams-2E86C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mastercam-F39C12?style=for-the-badge"/>
+</p>
 
 ## 🚀 Featured Projects
 

@@ -6,33 +6,61 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 IIT Bombay | BTech Mechanical + MTech AI & Data Science in 5 years 2022-2027
-- 📊 Interested in Data Science, Financial Analytics & AI
-- 💼 Hands-on experience in ML systems, geospatial analytics & financial modeling
-- 📈 CFA Level 1 Candidate (Aug 2026)
-- 📍 Based in Mumbai, India
+
+- 🎓 **IIT Bombay** — B.Tech. Mechanical Engineering + M.Tech. AI & Data Science
+- 🤖 Building at the intersection of **Data Science, AI, Analytics & Finance**
+- 💼 Experience across **AI applications, financial analytics, ML systems, geospatial analytics & automation**
+- 📈 **CFA Level I Candidate — Aug 2026**
+- 📍 Mumbai, India
 
 ## 💼 Work Experience
 
-### 🚀 UDA Summer Intern – Maritime Research Centre
-- Built a **geospatial analytics platform** for submarine cable routing
-- Processed and optimized **1.7GB+ spatial datasets**
-- Enabled environmental risk visualization for infrastructure planning
+### 📈 AI Intern — Motilal Oswal Financial Services
+**Digital Acquisition Department | May 2026 – Aug 2026**
+
+- 📊 Engineered **2 web-based analytics platforms** comprising **10 dashboards & 4 reports** to automate Lead-to-First Trade and Margin Trading Facility revenue analysis across desks, buckets & leaders, **cutting manual reporting effort by up to 95% and saving ~300 hours annually**
+- 🤖 Tested and optimized **4+ AI voice agents** across conversational workflows; independently designed a **mutual fund recommendation voicebot** that profiles investors by **risk appetite and investment horizon** for personalized recommendations
+- ⚡ Automated call-recording retrieval for **10,000+ files** through one-click ZIP export, reducing **2–3 hours of manual effort to minutes**
+- 🔎 Benchmarked **4 broking platforms** to identify opportunities for **demat-account process improvements**
 
 ---
 
-### 🏢 Summer Intern – IRCC, IIT Bombay
-- Managed documentation of **33/41 patent sign-offs (80.5%)**
-- Coordinated with faculty to support commercialization & licensing
+### 🚀 UDA Summer Intern — Maritime Research Centre
+**May 2025 – July 2025**
+
+- Built a **Python-based geospatial analytics platform** for submarine cable route visualization and environmental risk assessment
+- Processed and optimized **1.7GB+ spatial datasets** for infrastructure planning
+- Developed interactive visualization capabilities using **Flask & Leaflet.js**
 
 ---
 
-### 📊 Research & Data Analyst Intern – World of Steel
-- Automated Salesforce workflows for **200+ accounts**
-- Integrated Mailchimp + Google Analytics
-- Built dashboards for **green steel market analysis**
+### 🏢 Summer Intern — IRCC, IIT Bombay
+**May 2025 – July 2025**
+
+- Documented **33 of 41 patent sign-offs (80.5%)** across engineering domains
+- Coordinated with faculty to ensure documentation compliance and support **technology commercialization & licensing**
+
+---
+
+### 📊 Research & Data Analyst Intern — World of Steel
+**May 2024 – July 2024**
+
+- Automated Salesforce workflows supporting **200+ accounts**
+- Integrated **Mailchimp and Google Analytics** to streamline marketing and customer analytics
+- Built **Power BI & Excel dashboards** for green steel market analysis
+- Recognized by the CEO for data-driven contributions
 
 ## 🛠️ Tech Stack
+
+### 💰 Finance & Financial Analytics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Financial%20Modeling-1F4E78?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Market%20Research-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Portfolio%20Management-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Risk%20Analysis-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bloomberg-FF6B00?style=for-the-badge"/>
+</p>
 
 ### 💻 Languages & Frameworks
 <p>

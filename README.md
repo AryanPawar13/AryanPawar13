@@ -174,9 +174,10 @@
 - Applied data augmentation and regularization
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryanPawar13&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryanPawar13&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanPawar13&show_icons=true&theme=radical" alt="Aryan's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=AryanPawar13&theme=radical" alt="Aryan's GitHub Streak" />
 </p>
 
 ## 📫 Connect with Me

@@ -18,9 +18,9 @@
 ### 📈 AI Intern — Motilal Oswal Financial Services
 **Digital Acquisition Department | May 2026 – Aug 2026**
 
-- 📊 Engineered **2 web-based analytics platforms** comprising **10 dashboards & 4 reports** to automate Lead-to-First Trade and Margin Trading Facility revenue analysis across desks, buckets & leaders, **cutting manual reporting effort by up to 95% and saving ~300 hours annually**
-- 🤖 Tested and optimized **4+ AI voice agents** across conversational workflows; independently designed a **mutual fund recommendation voicebot** that profiles investors by **risk appetite and investment horizon** for personalized recommendations
-- ⚡ Automated call-recording retrieval for **10,000+ files** through one-click ZIP export, reducing **2–3 hours of manual effort to minutes**
+- 📊 Engineered **4 browser-based analytics & automation solutions** spanning MTF, Lead→First Trade and Advisory workflows, processing **3L+ rows and 270MB+ files**; reduced reporting cycles from hours to <2 minutes, saving **20+ hours/month** and delivering an estimated **₹5–8L** external-build equivalent with near zero infrastructure cost.
+- 🤖 Designed an MF recommendation voicebot from scratch with a 6-fund knowledge base, investor discovery, recommendation matrix and objection handling; collaborated on the functional testing of **4+ AI voice agents** across re-engagement, account-opening and recommendation workflows, delivering structured QA feedback for iterative vendor improvement.
+- ⚡ Automated 10,791-record NLP advisory analysis into 11 structured Excel reports, reducing ~40 hours of manual effort to <2 minutes (**98% reduction**); built a CDR downloader replacing 1,052 manual clicks with one-click ZIP export, cutting processing time from 3.5 hours to 8 minutes (**97% reduction**).
 - 🔎 Benchmarked **4 broking platforms** to identify opportunities for **demat-account process improvements**
 
 ---

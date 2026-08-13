@@ -9,19 +9,19 @@
 
 - 🎓 **IIT Bombay** — B.Tech. Mechanical Engineering + M.Tech. AI & Data Science
 - 🤖 Building at the intersection of **Data Science, AI, Analytics & Finance**
--💼 Experience across **AI applications, financial analytics, ML systems, geospatial analytics & automation**
--📈 **CFA Level I Candidate — Aug 2026**
--📍 Mumbai, India
+- 💼 Experience across **AI applications, financial analytics, ML systems, geospatial analytics & automation**
+- 📈 **CFA Level I Candidate — Aug 2026**
+- 📍 Mumbai, India
 
 ## 💼 Work Experience
 
 ### 📈 AI Intern — Motilal Oswal Financial Services
 **Digital Acquisition Department | May 2026 – Aug 2026**
 
--📊 Engineered **4 browser-based analytics & automation solutions** spanning MTF, Lead→First Trade and Advisory workflows, processing **3L+ rows and 270MB+ files**; reduced reporting cycles from hours to <2 minutes, saving **20+ hours/month** and delivering an estimated **₹5–8L** external-build equivalent with near zero infrastructure cost.
--🤖 Designed an MF recommendation voicebot from scratch with a 6-fund knowledge base, investor discovery, recommendation matrix and objection handling; collaborated on the functional testing of **4+ AI voice agents** across re-engagement, account-opening and recommendation workflows, delivering structured QA feedback for iterative vendor improvement.
--⚡ Automated 10,791-record NLP advisory analysis into 11 structured Excel reports, reducing ~40 hours of manual effort to <2 minutes (**98% reduction**); built a CDR downloader replacing 1,052 manual clicks with one-click ZIP export, cutting processing time from 3.5 hours to 8 minutes (**97% reduction**).
--🔎 Benchmarked **4 broking platforms** to identify opportunities for **demat-account process improvements**
+- 📊 Engineered **4 browser-based analytics & automation solutions** spanning MTF, Lead→First Trade and Advisory workflows, processing **3L+ rows and 270MB+ files**; reduced reporting cycles from hours to <2 minutes, saving **20+ hours/month** and delivering an estimated **₹5–8L** external-build equivalent with near zero infrastructure cost.
+- 🤖 Designed an MF recommendation voicebot from scratch with a 6-fund knowledge base, investor discovery, recommendation matrix and objection handling; collaborated on the functional testing of **4+ AI voice agents** across re-engagement, account-opening and recommendation workflows, delivering structured QA feedback for iterative vendor improvement.
+- ⚡ Automated 10,791-record NLP advisory analysis into 11 structured Excel reports, reducing ~40 hours of manual effort to <2 minutes (**98% reduction**); built a CDR downloader replacing 1,052 manual clicks with one-click ZIP export, cutting processing time from 3.5 hours to 8 minutes (**97% reduction**).
+- 🔎 Benchmarked **4 broking platforms** to identify opportunities for **demat-account process improvements**
 
 ---
 

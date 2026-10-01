@@ -10,7 +10,6 @@
 - 🎓 **IIT Bombay** — B.Tech. Mechanical Engineering + M.Tech. AI & Data Science
 - 🤖 Building at the intersection of **Data Science, AI, Analytics & Finance**
 - 💼 Experience across **AI applications, financial analytics, ML systems, geospatial analytics & automation**
-- 📈 **CFA Level I Candidate — Aug 2026**
 - 📍 Mumbai, India
 
 ## 💼 Work Experience
